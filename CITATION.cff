@@ -1,10 +1,10 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Jonas"
-  given-names: "Ollie"
 - family-names: "Dwyer"
   given-names: "Fraser"
+- family-names: "Jonas"
+  given-names: "Ollie"
 - family-names: "Harmer"
   given-names: "Helen"
 - family-names: "Tanna"
